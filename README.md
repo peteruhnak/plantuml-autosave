@@ -1,3 +1,3 @@
 # plantuml-autosave
 
-Automatically save a PlantUML source file as a PNG image in the same location as the source file.
+Atom plugin for automatic saving PlantUML files as PNG images in the same location as the source files.
